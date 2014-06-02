@@ -1,5 +1,5 @@
 {
-  "name": "papaya/module-captcha",
+  "name": "papaya/module-calendar",
   "minimum-stability": "dev",
   "extra" : {
     "document-root" : "htdocs/"
@@ -11,11 +11,5 @@
     "papaya/cms-administration": "*",
     "papaya/template-responsive": "*",
     "papaya/theme-dynamic": "*"
-  },
-  "repositories": [
-    {
-      "type": "composer",
-      "url": "http://composer.dev.dim/"
-    }
-  ]
+  }
 }
